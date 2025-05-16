@@ -1,0 +1,11 @@
+H:\Visual Projects\Test-Tasks\Task1\bin\Debug\Task1.exe.config
+H:\Visual Projects\Test-Tasks\Task1\bin\Debug\Task1.exe
+H:\Visual Projects\Test-Tasks\Task1\bin\Debug\Task1.pdb
+H:\Visual Projects\Test-Tasks\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+H:\Visual Projects\Test-Tasks\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+H:\Visual Projects\Test-Tasks\Task1\obj\Debug\Task1.exe
+H:\Visual Projects\Test-Tasks\Task1\obj\Debug\Task1.pdb
+H:\Visual Projects\Test-Tasks\Task1\bin\Debug\Task1.exe.manifest
+H:\Visual Projects\Test-Tasks\Task1\bin\Debug\Task1.application
+H:\Visual Projects\Test-Tasks\Task1\obj\Debug\Task1.exe.manifest
+H:\Visual Projects\Test-Tasks\Task1\obj\Debug\Task1.application
