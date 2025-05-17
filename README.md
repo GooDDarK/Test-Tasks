@@ -1,0 +1,1 @@
+Задачи тестового задания - https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2F13tj4NsXzvvT8G0WNfrLOdOL2%2BWQDAGLHJTAJ8RdgVscP8Qu61B543s0OhT5jOUuskEAmkQ4kXOg0TR8ZsXayQ%3D%3D&name=Тестовое%20задание%20C%23%20junmidsen.docx&nosw=1
